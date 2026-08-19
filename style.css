@@ -1,13 +1,13 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background: #f4f7fb;
+    background: #39c26f;
     color: #333;
 }
 
 header {
-    background: #0b4f8a;
-    color: white;
+    background: #008223;
+    color: #ffffff;
     text-align: center;
     padding: 30px;
 }
@@ -15,14 +15,14 @@ header {
 section {
     width: 80%;
     margin: 20px auto;
-    background: white;
+    background: #edf7a4;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
 h2 {
-    color: #0b4f8a;
+    color: #008223;
 }
 
 ul {
@@ -31,8 +31,8 @@ ul {
 
 footer {
     text-align: center;
-    background: #0b4f8a;
-    color: white;
+    background: #008223;
+    color: #feffff;
     padding: 15px;
     margin-top: 20px;
 }
